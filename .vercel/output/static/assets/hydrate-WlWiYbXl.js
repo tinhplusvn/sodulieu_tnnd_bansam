@@ -1,0 +1,1 @@
+import{G as e,U as t}from"./createLucideIcon-BwiAB6cH.js";import{t as n}from"./store-BlFhY12H.js";var r=e(t(),1);function i(){let[e,t]=(0,r.useState)(!1);return(0,r.useEffect)(()=>{let e=()=>t(!0);if(n.persist.hasHydrated()){e();return}return n.persist.onFinishHydration(e)},[]),e}export{i as t};
